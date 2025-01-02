@@ -21,7 +21,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Java,MySql,JafaFX**
+- 🔭 I’m currently working on **Java,MySql,JavaFX**
 
 - 🌱 I’m currently learning **to build Enterprise level Applications.**
 
@@ -50,7 +50,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,css,discord,figma,github,html,java,spring,js,linux,mongodb,mysql,nodejs,py,react,redux,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,css,discord,figma,github,html,php,bootstrap,java,spring,js,linux,ubuntu,mongodb,mysql,nodejs,py,react,idea,vscode&perline=14" />
   </a>
 </p>
 
@@ -77,8 +77,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
+ [![](https://visitcount.itsvg.in/api?id=wishwa2k&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 </div>
 
 
