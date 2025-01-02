@@ -10,11 +10,6 @@
 </div>
 
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 
 <!--h2 without bottom border-->
@@ -64,11 +59,7 @@
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
+
 <!--- trophy (start) -->
 
 
@@ -85,7 +76,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,css,discord,figma,github,html,java,spring,springboot,jdbc,js,linux,mongodb,mysql,nextjs,nodejs,py,react,redux,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,css,discord,figma,github,html,java,spring,springboot,js,linux,mongodb,mysql,nodejs,py,react,redux,vscode,kubernetes&perline=14" />
   </a>
 </p>
 
