@@ -41,18 +41,23 @@
 <!--- stats (end) -->
 
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,css,discord,figma,github,html,php,bootstrap,java,spring,js,linux,ubuntu,mongodb,mysql,nodejs,py,react,idea,vscode&perline=14" />
-  </a>
-</p>
+<!-- Technologies Section -->
+<section id="technologies" style="text-align: center; margin: 40px 0;">
+  <!-- Section Heading -->
+  <h2 style="font-size: 2rem; font-weight: bold; margin: 0; padding: 0;">Technologies That I Know 👨🏻‍💻</h2>
+  
+  <!-- Tech Stack Icons -->
+  <div style="margin-top: 20px;">
+    <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
+      <img
+        src="https://skillicons.dev/icons?i=git,aws,css,discord,figma,github,html,php,bootstrap,java,spring,js,linux,ubuntu,mongodb,mysql,nodejs,py,react,idea,vscode&perline=14"
+        alt="Icons representing technologies: Git, AWS, CSS, Discord, Figma, GitHub, HTML, PHP, Bootstrap, Java, Spring, JavaScript, Linux, Ubuntu, MongoDB, MySQL, Node.js, Python, React, IntelliJ IDEA, VSCode"
+        style="max-width: 100%; height: auto; display: inline-block;"
+      />
+    </a>
+  </div>
+</section>
+
 
 
 <!-- Connect with me -->
