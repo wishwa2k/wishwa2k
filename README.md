@@ -50,8 +50,8 @@
   <div style="margin-top: 20px;">
     <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
       <img
-        src="https://skillicons.dev/icons?i=git,aws,css,discord,figma,github,html,php,bootstrap,java,spring,js,linux,ubuntu,mongodb,mysql,nodejs,py,react,idea,vscode&perline=14"
-        alt="Icons representing technologies: Git, AWS, CSS, Discord, Figma, GitHub, HTML, PHP, Bootstrap, Java, Spring, JavaScript, Linux, Ubuntu, MongoDB, MySQL, Node.js, Python, React, IntelliJ IDEA, VSCode"
+        src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,php,bootstrap,java,spring,js,linux,ubuntu,mongodb,mysql,nodejs,py,react,idea,vscode&perline=14"
+        alt="Icons representing technologies: Git, CSS, Discord, Figma, GitHub, HTML, PHP, Bootstrap, Java, Spring, JavaScript, Linux, Ubuntu, MongoDB, MySQL, Node.js, Python, React, IntelliJ IDEA, VSCode"
         style="max-width: 100%; height: auto; display: inline-block;"
       />
     </a>
